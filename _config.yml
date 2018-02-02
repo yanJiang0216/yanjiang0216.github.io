@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Home
+email: 453926744@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  西安电子科技大学研究生
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: yanJiang0216 
+
+# Build settings
+markdown: kramdown
